@@ -5,15 +5,15 @@ Passionate about building useful and scalable web applications.
 Full Stack Developer | MERN | Building real-world projects
 
 ## 🚀 Projects
-  - [PersistenceClicker] (placeholder for the link to the repository) - Clicker game web app
-  - [ReposeYoga] (same) - Yoga studio web app with a plus for the users
-  - [DebateMap] (same) - Platform for structured debates
+  - [PersistenceClicker] (https://github.com/PabloW-dev/PersistenceClicker.git) - Clicker game web app 🟢 In Progress
+  - [ReposeYoga] (https://github.com/PabloW-dev/ReposeYoga.git) - Yoga studio web app with a plus for the users 🟡 Planned
+  - [DebateMap] (https://github.com/PabloW-dev/DebateMap.git) - Platform for structured debates 🟡 Planned
 
 
 ## 🛠️ Technologies
   - HTML, CSS, SCSS, JS, React, Node.js, Express, MongoDB, PHP, MySQL
 
-## 📫 contact
+## 📫 Contact
  - LinkedIn: []
  - Email: pablowfusterpastor@gamil.com
 
