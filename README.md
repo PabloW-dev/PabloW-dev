@@ -14,7 +14,7 @@ Full Stack Developer | MERN | Building real-world projects
   - HTML, CSS, SCSS, JS, React, Node.js, Express, MongoDB, PHP, MySQL
 
 ## 📫 Contact
- - LinkedIn: []
+ - LinkedIn: [linkedin.com/in/pablo-w-fuster-pastor-31a037401]
  - Email: pablowfusterpastor@gamil.com
 
 <!--
