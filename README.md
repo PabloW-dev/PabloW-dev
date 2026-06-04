@@ -15,7 +15,7 @@ Full Stack Developer | MERN | Building real-world projects
 
 ## 📫 Contact
  - LinkedIn: [linkedin.com/in/pablo-w-fuster-pastor-31a037401]
- - Email: pablowfusterpastor@gamil.com
+ - Email: pablowfusterpastor@gmail.com
 
 <!--
 **PabloW-dev/PabloW-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
