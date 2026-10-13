@@ -1,33 +1,32 @@
-## Hi, I'm PabloW 👋
+# Pablo W. Fuster
 
-Passionate about building useful and scalable web applications.
+**Junior Full Stack Developer | UX Strategy · Analytical Debugging · Pragmatic Problem Solving**
 
-Full Stack Developer | MERN | Building real-world projects
+I design and develop interactive applications by connecting system logic, user experience, and maintainable architecture.
 
-## 🚀 Projects
-  - [PersistenceClicker] (https://github.com/PabloW-dev/PersistenceClicker.git) - Clicker game web app 🟢 MPV deployed
-  - [YogaGarden] (https://github.com/PabloW-dev/YogaGarden.git) - Yoga studio web app with a plus for the users 🟢 In process
-  - [DebateMap] (https://github.com/PabloW-dev/DebateMap.git) - Platform for structured debates 🟡 Planned
+My approach focuses on solving problems with the minimum necessary cost and complexity, adapting solutions across domains to build cohesive systems rather than isolated features.
 
+## Projects
 
-## 🛠️ Technologies
-  - HTML, CSS, SCSS, JS, React, Node.js, Express, MongoDB, PHP, MySQL, Insomnia, Vite
+### [PersistenceClicker](https://github.com/PabloW-dev/PersistenceClicker)
+An incremental game built around two interconnected gameplay loops sharing the same environment, with persistent state and coordinated gameplay systems.
 
-## 📫 Contact
- - LinkedIn: [linkedin.com/in/pablo-w-fuster-pastor-31a037401]
- - Email: pablowfusterpastor@gmail.com
+**Technologies:** JavaScript · HTML5 · CSS3 · localStorage
 
-<!--
-**PabloW-dev/PabloW-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   
-Here are some ideas to get you started:
+### [YogaGarden](https://github.com/PabloW-dev/YogaGarden)
+A yoga learning platform connecting course discovery, class creation, and user contributions through an integrated learning experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies:** JavaScript · React · Sass · Vite · Context API
+
+## Technical Skills
+
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Sass · Vite  
+**Backend:** Node.js · Express · PHP  
+**Databases:** MySQL · MongoDB  
+**Tools & APIs:** Git · GitHub · Postman · Insomnia · TablePlus · Gulp · Fetch API · AJAX
+
+## Contact
+
+- **Portfolio:** https://pablow-dev.github.io/portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/pablo-w-fuster-pastor-31a037401/
+- **Email:** pablowfusterpastor@gmail.com
