@@ -21,7 +21,7 @@ A yoga learning platform connecting course discovery, class creation, and user c
 ## Technical Skills
 
 **Frontend:** HTML5 · CSS3 · JavaScript · React · Sass · Vite  
-**Backend:** Node.js · Express · PHP  
+**Backend:** Node.js · Express · PHP · Python
 **Databases:** MySQL · MongoDB  
 **Tools & APIs:** Git · GitHub · Postman · Insomnia · TablePlus · Gulp · Fetch API · AJAX
 
